@@ -1,5 +1,7 @@
 # Run the Jupyter notebook
 
+[![GuardRails badge](https://badges.production.guardrails.io/shtakai/chainer-handson.svg)](https://www.guardrails.io)
+
 You can download and run the notebooks on your Jupyter-enabled machine.
 
 ## Tested environment
